@@ -1,0 +1,13 @@
+.conteudo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: #EEF5DB;
+}
+
+.tela-login {
+  margin: 0 auto;
+  width: 800px; /* Ajuste a largura conforme necessário */
+  margin-left: -400px;
+}
